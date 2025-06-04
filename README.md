@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gio Illustrisimo!
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemcxaGZlNnJ4cTdsZGZydjYwaXdmc2pmMGhxNXlmaHQ1dWlicTZhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D1YwKAqQGTysemFJ9E/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemcxaGZlNnJ4cTdsZGZydjYwaXdmc2pmMGhxNXlmaHQ1dWlicTZhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D1YwKAqQGTysemFJ9E/giphy.gif" width="400"/>
 
 🎓 I'm a 4th-Year Computer Science student at University of Cebu - Lapu-Lapu & Mandaue.  
 🔍 I'm interested in software development, data science, and open-source projects.  
