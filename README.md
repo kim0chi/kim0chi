@@ -10,7 +10,7 @@
 
 ## 🧰 Tech Stack
 
-- Languages: `Python`, `TypeScript`, `Java`
+- Languages: `Java`,`C#`,`Python`,`JavaScript`,`TypeScript`
 - Web: `HTML`, `CSS`, `React`, `Node.js`,`Next.js`
 - Data: `SQL`, `Pandas`, `NumPy`
 - Tools: `Git`, `GitHub`, `VS Code`
