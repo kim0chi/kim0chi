@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gio Illustrisimo!
+# 👋 Hi, I'm Benedict Illustrisimo!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemcxaGZlNnJ4cTdsZGZydjYwaXdmc2pmMGhxNXlmaHQ1dWlicTZhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D1YwKAqQGTysemFJ9E/giphy.gif" width="400"/>
 
