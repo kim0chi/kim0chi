@@ -20,4 +20,3 @@ jobs:
           SHOW_TIME: "true"
           SHOW_TOTAL: "false"
           STOP_AT_OTHER: "true"
-```
