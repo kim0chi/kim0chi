@@ -1,3 +1,5 @@
+<div align="center">
+
 ```txt
                                            ▄█   ▄█▄  ▄█     ▄▄▄▄███▄▄▄▄    ▄██████▄ 
                                           ███ ▄███▀ ███   ▄██▀▀▀███▀▀▀██▄ ███    ███
@@ -11,14 +13,14 @@
 ```
 
 <!--START_SECTION:waka-->
-
+<pre>
 ```txt
 Batchfile   9 mins          █████████████████░░░░░░░░   68.12 %
 Markdown    4 mins          ████████░░░░░░░░░░░░░░░░░   31.88 %
 ```
 
 <!--END_SECTION:waka-->
-
+</pre>
 
 <table align="center">
   <tr>
