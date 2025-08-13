@@ -11,7 +11,7 @@
   ▀                                         
 </pre>
   
-<pre>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -23,7 +23,6 @@ HTML        0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</pre>
 
 <table align="center">
   <tr>
