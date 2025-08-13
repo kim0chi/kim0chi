@@ -23,7 +23,6 @@ HTML        0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</div>
 
 <table align="center">
   <tr>
