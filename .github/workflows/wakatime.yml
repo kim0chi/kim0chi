@@ -1,4 +1,3 @@
-
 name: Update WakaTime stats
 
 on:
@@ -6,17 +5,88 @@ on:
     - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
 
+# needed so the job can push the edited README back
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: athul/waka-readme@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: "false"
-          BLOCKS: "░▒▓█"            # bar style; try "0123456789" or "0o."
-          TIME_RANGE: "last_7_days" # or last_30_days
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: "last_30_days"
           LANG_COUNT: "5"
           SHOW_TIME: "true"
           SHOW_TOTAL: "false"
           STOP_AT_OTHER: "true"
+
+      # commit only if the waka action changed README.md
+      - name: Commit Waka changes (if any)
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): update WakaTime stats"
+            git push
+          else
+            echo "No changes from WakaTime."
+          fi
+
+  postprocess:
+    needs: update-readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Center + <pre> the WakaTime block
+        run: |
+          node - <<'EOF'
+          const fs = require('fs');
+          const path = 'README.md';
+          let s = fs.readFileSync(path, 'utf8');
+
+          // match the waka section
+          const re = /(<!--START_SECTION:waka-->)([\s\S]*?)(<!--END_SECTION:waka-->)/;
+          const m = s.match(re);
+          if (!m) { console.log('Waka section not found.'); process.exit(0); }
+
+          let mid = m[2];
+
+          // make idempotent: remove any previous <p align="center"> wrappers
+          mid = mid.replace(/<p\s+align="center">\s*/g, '')
+                   .replace(/\s*<\/p>\s*/g, '');
+
+          // replace ALL fenced blocks inside with centered <pre>
+          mid = mid.replace(/```[a-zA-Z]*\s*([\s\S]*?)```/g, (_all, inner) =>
+            `<p align="center">\n<pre>\n${inner.trim()}\n</pre>\n</p>\n`
+          );
+
+          const out = s.replace(re, `$1\n${mid.trim()}\n$3`);
+          if (out !== s) {
+            fs.writeFileSync(path, out);
+            console.log('README updated by postprocess.');
+          } else {
+            console.log('No postprocess changes needed.');
+          }
+          EOF
+
+      - name: Commit postprocess changes (if any)
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): center WakaTime block"
+            git push
+          else
+            echo "No changes to commit."
+          fi
