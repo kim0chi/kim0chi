@@ -13,8 +13,8 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 Markdown     23 mins         ███████████▒░░░░░░░░░░░░░   45.02 %
 Bash         15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
 Batchfile    9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
@@ -22,8 +22,8 @@ JSON         1 min           ▓░░░░░░░░░░░░░░░░
 HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
