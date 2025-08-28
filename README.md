@@ -13,16 +13,16 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
-TypeScript                         29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.33 %
-Markdown                           23 mins         ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-Bash                               15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Batchfile                          9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-JavaScript                         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Other                              5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-</pre>
-</p>
+
+```txt
+TypeScript                         29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+Markdown                           23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+Bash                               15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Batchfile                          9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+JavaScript                         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Other                              5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
