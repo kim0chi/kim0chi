@@ -13,17 +13,16 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
-Python                             1 hr 10 mins    ██████████▓░░░░░░░░░░░░░░   42.34 %
-TypeScript                         29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
-Markdown                           23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Bash                               15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Batchfile                          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-JavaScript                         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Other                              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-</pre>
-</p>
+
+```txt
+Python                             1 hr 10 mins    █████████░░░░░░░░░░░░░░░░   35.41 %
+JavaScript                         30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+TypeScript                         29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Markdown                           23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Bash                               15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Other                              12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
