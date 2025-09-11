@@ -13,16 +13,16 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 Python                             1 hr 56 mins    ███████████░░░░░░░░░░░░░░   43.79 %
 TypeScript                         35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
 JavaScript                         30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
 Markdown                           23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
 Bash                               15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 Other                              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
