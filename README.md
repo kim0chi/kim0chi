@@ -13,8 +13,8 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 Python       3 hrs 45 mins   ██████████████████░░░░░░░   72.49 %
 JavaScript   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 C#           20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
@@ -22,8 +22,8 @@ CSV          9 mins          ▓░░░░░░░░░░░░░░░░
 CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
