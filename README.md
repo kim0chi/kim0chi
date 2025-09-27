@@ -13,8 +13,8 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 Python       3 hrs 45 mins   █████████████████▓░░░░░░░   70.60 %
 JavaScript   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 C#           20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
@@ -23,8 +23,8 @@ CSS          9 mins          ▓░░░░░░░░░░░░░░░░
 HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
