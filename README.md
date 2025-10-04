@@ -13,8 +13,8 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
+
+```txt
 Python       3 hrs 23 mins   ██████████████▒░░░░░░░░░░   56.95 %
 JavaScript   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
 CSS          27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
@@ -25,8 +25,8 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 CSV          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-</pre>
-</p>
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
