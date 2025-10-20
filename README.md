@@ -41,4 +41,6 @@ Other                              13 mins         ▓░░░░░░░░�
   </tr>
 </table>
 
+Portfolio: https://kimo-portfolio.netlify.app/
+
 
