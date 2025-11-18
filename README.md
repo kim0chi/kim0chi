@@ -36,6 +36,3 @@ Other        1 hr 7 mins     ██░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-Portfolio: https://kimo-portfolio.netlify.app/
-
-
