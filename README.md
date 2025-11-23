@@ -13,15 +13,15 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 TypeScript   4 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.57 %
 Python       2 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
 CSS          1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
 Markdown     1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
 Other        1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
