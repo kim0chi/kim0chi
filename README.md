@@ -13,12 +13,12 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 TypeScript   4 hrs 48 mins   ████████████▓░░░░░░░░░░░░   50.98 %
 Other        1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
