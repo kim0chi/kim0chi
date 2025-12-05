@@ -13,13 +13,13 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 TypeScript   5 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.36 %
 Python       1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
 Other        1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
