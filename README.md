@@ -13,19 +13,19 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
+
+```txt
 TypeScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.62 %
 Python       3 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
 JavaScript   1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 PowerShell   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 C#           38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 Docker       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-</pre>
-</p>
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
