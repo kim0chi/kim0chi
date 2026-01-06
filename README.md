@@ -13,18 +13,16 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
-TypeScript   1 hr 45 mins    ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-Python       1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-JavaScript   1 hr 26 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
-PowerShell   38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-CSV          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-</pre>
-</p>
+
+```txt
+Python       1 hr 5 mins     ████████▓░░░░░░░░░░░░░░░░   35.04 %
+JavaScript   1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.01 %
+TypeScript   37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+PowerShell   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+CSV          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
