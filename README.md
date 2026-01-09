@@ -13,13 +13,13 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
+
+```txt
 Python     1 hr 4 mins     █████████████████████▒░░░   85.26 %
 CSV        9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
 Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-</pre>
-</p>
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
