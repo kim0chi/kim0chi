@@ -13,11 +13,11 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
-Markdown   0 secs          █████████████████████████   100.00 %
-</pre>
-</p>
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
