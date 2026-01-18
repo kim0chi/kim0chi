@@ -13,11 +13,11 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
+
+```txt
 No activity tracked
-</pre>
-</p>
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
