@@ -13,11 +13,11 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
-No activity tracked
-</pre>
-</p>
+
+```txt
+TypeScript   12 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
