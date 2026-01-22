@@ -13,11 +13,11 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
-TypeScript   12 mins         █████████████████████████   100.00 %
-</pre>
-</p>
+
+```txt
+TypeScript   2 hrs 58 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
