@@ -13,8 +13,8 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 TypeScript   17 hrs 20 mins  █████████████████████▓░░░   86.04 %
 Bash         2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
 Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
@@ -22,8 +22,8 @@ JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
 
 <table align="center">
