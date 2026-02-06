@@ -13,17 +13,17 @@
   
 
 <!--START_SECTION:waka-->
-<p align="center">
-<pre>
-TypeScript   25 hrs 3 mins   ██████████████████████░░░   87.93 %
-Bash         2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Markdown     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Python       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+
+```txt
+TypeScript   25 hrs 52 mins  ██████████████████████░░░   87.50 %
+Bash         2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Markdown     59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Python       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-</pre>
-</p>
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
