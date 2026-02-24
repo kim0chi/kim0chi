@@ -13,8 +13,8 @@
   
 
 <!--START_SECTION:waka-->
-
-```txt
+<p align="center">
+<pre>
 TypeScript   35 hrs 21 mins  ██████████████████▒░░░░░░   72.73 %
 Python       5 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
 Bash         3 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
@@ -22,6 +22,6 @@ Markdown     2 hrs 19 mins   █▒░░░░░░░░░░░░░░░
 JSON         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 JavaScript   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-```
-
+</pre>
+</p>
 <!--END_SECTION:waka-->
